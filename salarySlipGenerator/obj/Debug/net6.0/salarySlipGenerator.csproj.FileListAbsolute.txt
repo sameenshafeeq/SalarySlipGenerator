@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\salarySlipGenerator\bin\Debug\net6.0\salarySlipGenerator.exe
+C:\Users\Administrator\source\repos\salarySlipGenerator\bin\Debug\net6.0\salarySlipGenerator.deps.json
+C:\Users\Administrator\source\repos\salarySlipGenerator\bin\Debug\net6.0\salarySlipGenerator.runtimeconfig.json
+C:\Users\Administrator\source\repos\salarySlipGenerator\bin\Debug\net6.0\salarySlipGenerator.dll
+C:\Users\Administrator\source\repos\salarySlipGenerator\bin\Debug\net6.0\salarySlipGenerator.pdb
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\salarySlipGenerator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\salarySlipGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\salarySlipGenerator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\salarySlipGenerator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\salarySlipGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\salarySlipGenerator.dll
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\refint\salarySlipGenerator.dll
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\salarySlipGenerator.pdb
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\salarySlipGenerator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\salarySlipGenerator\obj\Debug\net6.0\ref\salarySlipGenerator.dll
